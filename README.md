@@ -1,3 +1,5 @@
+**Tesodev Search Portal**
+
 Search Engine made for Tesodev Recruiting case. It consists of two different pages. In the main (landing) page, user searches for users by using the search bar and then it gives related results to user, with a matchlist below. If the amount of results is greater than 3, then it shows a load more link as below:
 
 ![1](https://user-images.githubusercontent.com/88496167/128413006-2afe8ff1-6242-472e-a756-bde32123d1a1.png)
